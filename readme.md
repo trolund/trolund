@@ -14,7 +14,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=trolund&show_icons=true" alt="trolund" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trolund)](https://github.com/trolund/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trolund" alt="trolund" />
 
 </p>
 
