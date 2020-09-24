@@ -10,12 +10,9 @@
 
 - ⚡ Fun fact **I love paddling kayak!**
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
-
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=trolund&show_icons=true" alt="trolund" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trolund" alt="trolund" />
-
 </p>
 
 <p align="center">
