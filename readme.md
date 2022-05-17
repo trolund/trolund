@@ -4,8 +4,8 @@
 
 - 👨‍💻 All of my projects are available at [http://troelslund.dk/](http://troelslund.dk/)
 
-- 📚 Education **B.Eng Software engineering (Softwareteknologi)**
--  Studying Industry Master of Science in Engineering - Computer Science and Engineering
+- 📚 Education **B.Eng Software engineering**
+- 📚 Studying **Industry Master of Science in Engineering - Computer Science and Engineering**
 
 - 📫 How to reach me **trolund@gmail.com**
 
