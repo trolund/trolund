@@ -3,8 +3,7 @@
 
 - 👨‍💻 All of my projects are available on my [personal website](https://trolund.vercel.app/)
 
-- 📚 Education **B.Eng Software Engineering**
-- 📚 Studying **Master of Science in Engineering - Computer Science and Engineering** at the Technical University of Denmark (DTU)
+- 📚 Education **MSc Eng - Computer Science and Engineering** at the Technical University of Denmark (DTU)
 
 - 📫 How to reach me **trolund@gmail.com**
 
