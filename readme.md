@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available on my [personal website](https://trolund.github.io/)
 
-- 📚 Education **MSc Eng - Computer Science and Engineering** at the Technical University of Denmark (DTU)
+- 📚 Education **MSc Eng. - Computer Science and Engineering** from the Technical University of Denmark (DTU)
 
 - 📫 How to reach me **trolund@gmail.com**
 
