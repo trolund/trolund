@@ -1,22 +1,26 @@
-<h1 align="center">Hi 👋, I'm Troels Lund</h1>
-<h3 align="center">I am a Danish Software engineer👨‍💻</h3>
+<div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+  Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; color: #222; text-align: center;">
 
-<a href="https://www.linkedin.com/in/trolund/" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" style="vertical-align: middle;" />
-</a>
+  <h1 style="margin-bottom: 0.2em;">Hi 👋, I'm Troels Lund</h1>
+  <h3 style="color: #555; margin-top: 0; font-weight: 400;">I am a Danish Software Engineer 👨‍💻</h3>
 
-<ul style="list-style: none; padding: 0; text-align: center;">
-  <li style="margin-bottom: 10px;">
-    🧑‍🔬 Many of my projects are available on my <a href="https://trolund.github.io/" target="_blank">personal website</a>
-  </li>
-  <li style="margin-bottom: 10px;">
-    📚 Education <strong>MSc Eng. - Computer Science and Engineering</strong> from the Technical University of Denmark (DTU)
-  </li>
-  <li style="margin-bottom: 10px;">
-    📫 How to reach me <strong>trolund@gmail.com</strong>
-  </li>
-  <li>
-    ⚡ Fun fact <strong>I love paddling kayak!</strong>
-  </li>
-</ul>
+  <a href="https://www.linkedin.com/in/trolund/" target="_blank" style="display: inline-block; margin: 1em 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" height="40" width="50" style="vertical-align: middle; filter: grayscale(20%);" />
+  </a>
 
+  <ul style="list-style: none; padding: 0; margin-top: 1em; text-align: left; max-width: 400px; margin-left: auto; margin-right: auto;">
+    <li style="margin-bottom: 0.8em; font-size: 1.1em;">
+      🧑‍🔬 Many of my projects are available on my <a href="https://trolund.github.io/" target="_blank" style="color: #0366d6; text-decoration: none;">personal website</a>
+    </li>
+    <li style="margin-bottom: 0.8em; font-size: 1.1em;">
+      📚 Education <strong>MSc Eng. - Computer Science and Engineering</strong> from the Technical University of Denmark (DTU)
+    </li>
+    <li style="margin-bottom: 0.8em; font-size: 1.1em;">
+      📫 How to reach me <strong>trolund@gmail.com</strong>
+    </li>
+    <li style="font-size: 1.1em;">
+      ⚡ Fun fact <strong>I love paddling kayak!</strong>
+    </li>
+  </ul>
+</div>
